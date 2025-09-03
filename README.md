@@ -1,6 +1,6 @@
 # DA6400: Programming Assignment 2
 submitted by 
-- [Rohit Kumar (DA24S003)]https://github.com/rohitrk06)
+- [Rohit Kumar (DA24S003)](https://github.com/rohitrk06)
 - Sankalp Shrivastava (DA24S021)
 
 In this programming assigment, we are supposed to implement two reinforcemnt learning algorithms i.e. Dueling DQN and Monte Carlo REINFORCE. Also, we need to tune hyperparameters. We need to implement two variants of each algorithm and compare these variants with each other.
